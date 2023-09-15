@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Text.RegularExpressions;
-
 internal  class PatternMatching_UC1
 {
     public static void ValidLastName()
