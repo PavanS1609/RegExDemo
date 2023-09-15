@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more informationg 
+﻿// See https://aka.ms/new-console-template for more informationg
 
 using System;
 
